@@ -1,5 +1,5 @@
-import hindi from "./netflix-hindi-content.js";
-import english from "./netflix-english-content.js";
+import hindi from "netflix-english-content.js";
+import english from "netflix-english-content.js";
 
 const homePage = document.querySelector(".home-page");
 const feature = document.querySelector(".feature");
