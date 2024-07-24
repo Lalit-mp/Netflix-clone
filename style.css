@@ -179,7 +179,7 @@ left: 0px;
 }
 .opacity{
   width: 100vw;
-  background: url("/Projects/Netflix-Clone/assests/hero-bg-large.jpg");
+  background: url("assests/hero-bg-large.jpg");
   background-size: cover;
   position: relative;
   position: relative;
